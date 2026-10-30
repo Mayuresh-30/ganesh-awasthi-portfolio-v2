@@ -1,0 +1,333 @@
+{
+  "profile": {
+    "name": "Ganesh Awasthi",
+    "title": "Java Backend Developer",
+    "location": "Maharashtra, India",
+    "phone": "7507763048",
+    "email": "ga.gawasthi@gmail.com",
+    "linkedin_url": "https://www.linkedin.com/in/ganesh-awasthi-b72a9a126/",
+    "github_url": null,
+    "bio": "Results-driven Java Developer with 4+ years of experience designing, building, and maintaining scalable, secure microservices for enterprise banking systems. Skilled in Java, Spring Boot, REST APIs, AWS, and CI/CD automation, with a record of improving system reliability, reducing defects, and streamlining production support. A collaborative engineer who translates complex requirements into maintainable software.",
+    "image_path": "/profile%20image%202.jpeg",
+    "experience": [
+      {
+        "role": "System Engineer",
+        "company": "Tata Consultancy Services",
+        "company_logo_path": "/TCS-Icon-Logo-PNG.png",
+        "client": "Lloyds Banking Group",
+        "period": "March 2022 — Present",
+        "description": "Develops and maintains Java Spring Boot microservices that securely process annual benefit policy data for a large-scale banking client serving 2M+ policyholders. Designs REST APIs and third-party integrations, deploys services on AWS ECS and API Gateway, automates CI/CD, resolves production defects, optimizes data synchronization, and builds responsive UI components.",
+        "highlights": [
+          "250+ production defects resolved",
+          "40% faster bug resolution cycle",
+          "80% fewer redundant records",
+          "CI/CD automation"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Engineering, Computer Science and Engineering",
+        "institution": "Anuradha Engineering College, Chikhali, Maharashtra",
+        "period": "August 2019",
+        "result": "CGPA 7.68 / 10"
+      },
+      {
+        "degree": "Diploma in Engineering",
+        "institution": "Dr. R. N. Lahoti Polytechnic College, Sultanpur",
+        "period": "June 2016",
+        "result": "Score 68.29%"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "id": 1,
+      "name": "Java",
+      "category": "Languages & Frameworks",
+      "icon_key": "siJava",
+      "sort_order": 1
+    },
+    {
+      "id": 2,
+      "name": "Core Java",
+      "category": "Languages & Frameworks",
+      "icon_key": "siJava",
+      "sort_order": 2
+    },
+    {
+      "id": 3,
+      "name": "Spring",
+      "category": "Languages & Frameworks",
+      "icon_key": "siSpring",
+      "sort_order": 3
+    },
+    {
+      "id": 4,
+      "name": "Spring Boot",
+      "category": "Languages & Frameworks",
+      "icon_key": "siSpringboot",
+      "sort_order": 4
+    },
+    {
+      "id": 5,
+      "name": "JavaScript",
+      "category": "Languages & Frameworks",
+      "icon_key": "siJavascript",
+      "sort_order": 5
+    },
+    {
+      "id": 6,
+      "name": "React.js",
+      "category": "Languages & Frameworks",
+      "icon_key": "siReact",
+      "sort_order": 6
+    },
+    {
+      "id": 7,
+      "name": "HTML",
+      "category": "Languages & Frameworks",
+      "icon_key": "code",
+      "sort_order": 7
+    },
+    {
+      "id": 8,
+      "name": "CSS",
+      "category": "Languages & Frameworks",
+      "icon_key": "code",
+      "sort_order": 8
+    },
+    {
+      "id": 9,
+      "name": "SQL",
+      "category": "Languages & Frameworks",
+      "icon_key": "siMysql",
+      "sort_order": 9
+    },
+    {
+      "id": 10,
+      "name": "JSON",
+      "category": "Languages & Frameworks",
+      "icon_key": "code",
+      "sort_order": 10
+    },
+    {
+      "id": 11,
+      "name": "XML",
+      "category": "Languages & Frameworks",
+      "icon_key": "code",
+      "sort_order": 11
+    },
+    {
+      "id": 12,
+      "name": "AWS ECS",
+      "category": "Cloud & DevOps",
+      "icon_key": "cloud",
+      "sort_order": 1
+    },
+    {
+      "id": 13,
+      "name": "AWS API Gateway",
+      "category": "Cloud & DevOps",
+      "icon_key": "cloud",
+      "sort_order": 2
+    },
+    {
+      "id": 14,
+      "name": "Jenkins",
+      "category": "Cloud & DevOps",
+      "icon_key": "cloud",
+      "sort_order": 3
+    },
+    {
+      "id": 15,
+      "name": "CI/CD Pipelines",
+      "category": "Cloud & DevOps",
+      "icon_key": "workflow",
+      "sort_order": 4
+    },
+    {
+      "id": 16,
+      "name": "Shell Scripting",
+      "category": "Cloud & DevOps",
+      "icon_key": "code",
+      "sort_order": 5
+    },
+    {
+      "id": 17,
+      "name": "Git",
+      "category": "Cloud & DevOps",
+      "icon_key": "siGit",
+      "sort_order": 6
+    },
+    {
+      "id": 18,
+      "name": "GitHub",
+      "category": "Cloud & DevOps",
+      "icon_key": "siGithub",
+      "sort_order": 7
+    },
+    {
+      "id": 19,
+      "name": "OOP",
+      "category": "Concepts",
+      "icon_key": "code",
+      "sort_order": 1
+    },
+    {
+      "id": 20,
+      "name": "Data Structures & Algorithms",
+      "category": "Concepts",
+      "icon_key": "code",
+      "sort_order": 2
+    },
+    {
+      "id": 21,
+      "name": "Microservices Architecture",
+      "category": "Concepts",
+      "icon_key": "workflow",
+      "sort_order": 3
+    },
+    {
+      "id": 22,
+      "name": "REST API Design",
+      "category": "Concepts",
+      "icon_key": "code",
+      "sort_order": 4
+    },
+    {
+      "id": 23,
+      "name": "System Design (HLD/LLD)",
+      "category": "Concepts",
+      "icon_key": "layers",
+      "sort_order": 5
+    },
+    {
+      "id": 24,
+      "name": "Eclipse",
+      "category": "Tools & OS",
+      "icon_key": "code",
+      "sort_order": 1
+    },
+    {
+      "id": 25,
+      "name": "VS Code",
+      "category": "Tools & OS",
+      "icon_key": "code",
+      "sort_order": 2
+    },
+    {
+      "id": 26,
+      "name": "Windows",
+      "category": "Tools & OS",
+      "icon_key": "code",
+      "sort_order": 3
+    },
+    {
+      "id": 27,
+      "name": "Linux",
+      "category": "Tools & OS",
+      "icon_key": "code",
+      "sort_order": 4
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Ashirwad NGO",
+      "url": "https://www.ashirwadngo.co.in/"
+    },
+    {
+      "name": "Unnati Balgram",
+      "url": "https://unnatibalgram.org/"
+    },
+    {
+      "name": "UPAY",
+      "url": "https://upayngo.org/"
+    }
+  ],
+  "credentials": [
+    {
+      "kind": "Certification",
+      "title": "AWS Cloud Practitioner Certified",
+      "description": "Functional knowledge of AWS cloud services and concepts.",
+      "status": "Certified"
+    },
+    {
+      "kind": "Certification",
+      "title": "GitHub Foundations Certified",
+      "description": "Git, GitHub workflow, and version control best practices.",
+      "status": "Certified"
+    },
+    {
+      "kind": "Certification",
+      "title": "GitHub Copilot Certified",
+      "description": "AI-assisted code generation and development productivity.",
+      "status": "Certified",
+      "proof_urls": [
+        "https://www.linkedin.com/feed/update/urn:li:activity:7289241810453835777/",
+        "https://www.linkedin.com/feed/update/urn:li:activity:7289241587232948225/"
+      ]
+    },
+    {
+      "kind": "Certification",
+      "title": "Microsoft Certified: Azure Data Fundamentals (DP-900)",
+      "description": "Microsoft Azure data services, SQL, and analytics fundamentals.",
+      "status": "Certified",
+      "proof_urls": [
+        "https://www.linkedin.com/feed/update/urn:li:activity:7426274454080618496/"
+      ]
+    },
+    {
+      "kind": "Certification",
+      "title": "MongoDB SI Associate",
+      "description": "MongoDB SI Associate certification.",
+      "status": "Certified",
+      "proof_urls": [
+        "https://www.linkedin.com/feed/update/urn:li:activity:7269683541028798464/"
+      ]
+    },
+    {
+      "kind": "Certification",
+      "title": "Full Stack Development Certification",
+      "description": "Java, Spring Boot, React, REST APIs, and SQL.",
+      "status": "In progress"
+    },
+    {
+      "kind": "Certification",
+      "title": "System Design Certification",
+      "description": "HLD, LLD, scalability, and distributed systems.",
+      "status": "In progress"
+    },
+    {
+      "kind": "Recognition",
+      "title": "On the Spot",
+      "description": "Received for technical excellence."
+    },
+    {
+      "kind": "Recognition",
+      "title": "Special Initiative",
+      "description": "Received for proactive problem-solving and process improvement."
+    },
+    {
+      "kind": "Recognition",
+      "title": "Certificate of Appreciation — Tech4Hope",
+      "description": "Recognized for developing a user-focused website for an NGO through the TCS Tech4Hope CSR initiative.",
+      "proof_urls": [
+        "https://www.linkedin.com/feed/update/urn:li:activity:7426524294282788864/"
+      ]
+    },
+    {
+      "kind": "Recognition",
+      "title": "Certificate of Appreciation — TCS AI Fridays",
+      "description": "Recognized for participating in TCS AI Fridays, held in Nagpur on October 10, 2025.",
+      "proof_urls": [
+        "https://www.linkedin.com/feed/update/urn:li:activity:7384887098497130496/"
+      ]
+    },
+    {
+      "kind": "Recognition",
+      "title": "4+ out of 5 performance rating",
+      "description": "Earned across consecutive annual appraisal cycles for dedication to team goals."
+    }
+  ]
+}
