@@ -11,6 +11,7 @@ export interface Skill {
 export interface Organization {
   name: string;
   url: string;
+  image_path: string;
 }
 
 export interface Credential {

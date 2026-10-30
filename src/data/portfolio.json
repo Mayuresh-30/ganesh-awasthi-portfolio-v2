@@ -234,15 +234,18 @@
   "organizations": [
     {
       "name": "Ashirwad NGO",
-      "url": "https://www.ashirwadngo.co.in/"
+      "url": "https://www.ashirwadngo.co.in/",
+      "image_path": "/imgi_1_ashirwad_foundation_logo-1.svg"
     },
     {
       "name": "Unnati Balgram",
-      "url": "https://unnatibalgram.org/"
+      "url": "https://unnatibalgram.org/",
+      "image_path": "/unnati balgram.png"
     },
     {
       "name": "UPAY",
-      "url": "https://upayngo.org/"
+      "url": "https://upayngo.org/",
+      "image_path": "/imgi_1_upay_final_logo-half-rreu580s94jrjouc9ikj4qegmmtz3wfriyiz2w2a00.png"
     }
   ],
   "credentials": [

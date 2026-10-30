@@ -19,7 +19,9 @@ export function OrganizationsSection({ organizations }: { organizations: Organiz
               <p className="project-description">Organization included in Ganesh’s NGO work.</p>
             </div>
             <div className="project-side">
-              <div className="project-glyph" aria-hidden="true"><span>{organization.name.slice(0, 2).toUpperCase()}</span></div>
+              <div className="project-glyph">
+                <img className="organization-logo" src={organization.image_path} alt={`${organization.name} logo`} />
+              </div>
               <a className="project-link" href={organization.url} target="_blank" rel="noopener noreferrer" aria-label={`Visit ${organization.name}`}>
                 Visit website <ArrowUpRight size={16} />
               </a>
@@ -30,6 +32,5 @@ export function OrganizationsSection({ organizations }: { organizations: Organiz
     </section>
   );
 }
-
 
 
