@@ -14,6 +14,7 @@ A responsive, single-page portfolio for presenting Ganesh Awasthi's profile, ski
 - [Styling, responsive behavior, and accessibility](#styling-responsive-behavior-and-accessibility)
 - [Local development](#local-development)
 - [Build and deployment](#build-and-deployment)
+- [Vercel deployment guide](./vercel-deploy-guide.md)
 - [Design and implementation notes](#design-and-implementation-notes)
 
 ## Project at a glance
